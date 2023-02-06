@@ -2,7 +2,7 @@
   "name": "schoolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "turn-digital.github.io/index-schoolio",
+  "homepage": "index-schoolio.turn.lv",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
