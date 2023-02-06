@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/turn-digital.github.io/static/css/main.635f2139.css",
+    "main.js": "/turn-digital.github.io/static/js/main.0f2bbab6.js",
+    "static/js/787.57d4b1be.chunk.js": "/turn-digital.github.io/static/js/787.57d4b1be.chunk.js",
+    "static/media/SourceSansPro-Regular.woff": "/turn-digital.github.io/static/media/SourceSansPro-Regular.cab17d24b28e61f2e56d.woff",
+    "static/media/SourceSansPro-Bold.woff": "/turn-digital.github.io/static/media/SourceSansPro-Bold.27215f991146a09dbb23.woff",
+    "static/media/SourceSansPro-Black.woff": "/turn-digital.github.io/static/media/SourceSansPro-Black.abf61b1e9edeb3938543.woff",
+    "static/media/SourceSansPro-Italic.woff": "/turn-digital.github.io/static/media/SourceSansPro-Italic.f57a340a11b73609e7cb.woff",
+    "index.html": "/turn-digital.github.io/index.html",
+    "static/media/icon-chevron-right.svg": "/turn-digital.github.io/static/media/icon-chevron-right.bd51f68c14ea3f48974d.svg",
+    "main.635f2139.css.map": "/turn-digital.github.io/static/css/main.635f2139.css.map",
+    "main.0f2bbab6.js.map": "/turn-digital.github.io/static/js/main.0f2bbab6.js.map",
+    "787.57d4b1be.chunk.js.map": "/turn-digital.github.io/static/js/787.57d4b1be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635f2139.css",
+    "static/js/main.0f2bbab6.js"
+  ]
+}
